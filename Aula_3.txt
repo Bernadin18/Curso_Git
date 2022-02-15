@@ -1,0 +1,122 @@
+    1  history
+    2  clear
+    3  git config --global user.name 'Bernadin Pinquiere'
+    4  git config --global user.name 'Bernadin Pinquiere'
+    5  git config --global user.email 'bernadinpinquiere@gmail.com'
+    6  git config user.name
+    7  cd Desktop/
+    8  mkdir Curso_Git/
+    9  git config user.name
+   10  git init
+   11  git status
+   12  echo '#Aprendendo usar o Git > readme.md
+   13  git branch
+   14  cd projetos3
+   15  clc
+   16  cd projetosBernadin
+   17  cd:
+   18  cd :
+   19  cd c:
+   20  cd xampp
+   21  cd htdocs
+   22  ls
+   23  cd projetos3
+   24  cd projeto3
+   25  git unit
+   26  git init
+   27  git remote add origin github.com/Bernadin18/ProjetosBernadin
+   28  git@github.com:Bernadin18/ProjetosBernadin.git
+   29  https://github.com/Bernadin18/ProjetosBernadin.git
+   30  git remote add origin git@github.com:Bernadin18/ProjetosBernadin.git
+   31  git  remote  add  origin git@github.com:Bernadin18/ProjetosBernadin.git
+   32  git remote add origin git@github.com:Bernadin18/ProjetosBernadin.git
+   33  git@github.com:Bernadin18/trabalhos-importantes.git
+   34  git init
+   35  git@github.com:Bernadin18/trabalhos-importantes.git
+   36  git remote add origin git@github.com:Bernadin18/trabalhos-importantes.git
+   37  cd:
+   38  cd c:
+   39  cd xampp
+   40  cd htdocs
+   41  cd projetos
+   42  ls
+   43  cd projeto3/
+   44  git init
+   45  git remote add origin git@github.com:Bernadin18/meu-trabalho.git
+   46  cd ..
+   47  git init
+   48  cd projeto3/
+   49  git init
+   50  git remote add origin git@github.com:Bernadin18/meu-trabalho.git
+   51  cd:
+   52  cd c:
+   53  cd xampp
+   54  cd hotdocs
+   55  cd htdocs
+   56  cd projeto/
+   57  ls
+   58  cd projeto3/
+   59  git init
+   60  git remote add origin git@github.com:Bernadin18/projetobernadin.git
+   61  cd c:
+   62  cd xampp
+   63  cd htdocs
+   64  ls
+   65  projeto3/
+   66  cd projeto3/
+   67  git init
+   68  git remote add origin git@github.com:Bernadin18/proejetospeesoais.git
+   69  git status
+   70  git --version
+   71  git config --global user.name "Andre Baltieri"
+   72  git config --global user.name "Andre Baltieri"
+   73  git config--global user.name "Bernadin Pinquiere"
+   74  git config --global user.name "Bernadin Pinquiere"
+   75  git config --global user.email "bernadinpinquiere"
+   76  git config --global user.name "Bernadin Pinquiere"
+   77  git config --global user.name "bernadinpinquiere@gmail.com"
+   78  ls
+   79  ls -a
+   80  ls ..
+   81  pwd
+   82  ls
+   83  git config --global user.name 'Bernadin Pinquiere'
+   84  git config --global user.email 'bernadinpinquiere@gmail.com'
+   85  git config user.name
+   86  cd Desktop/
+   87  mkdir Curso_Git
+   88  cd Documents
+   89  cd ~
+   90  cd Documents
+   91  mkdir Curso_Git
+   92  cd Curso_Git/
+   93  git config user.name
+   94  git init
+   95  git status
+   96  echo ' #Aprendendo usar o Git' > readme.md
+   97  git status
+   98  git add readme.md
+   99  git status
+  100  git status
+  101  git comit -m 'commit inicial'
+  102  git commit -m 'commit inicial'
+  103  git status
+  104  echo '##Aula 1' >> readme.md
+  105  git status
+  106  echo 'Bernadin Pinquiere' > participantes.txt
+  107  git status
+  108  git add .
+  109  git status
+  110  git restore --staged participantes.txt
+  111  git status
+  112  git add participantes.txt
+  113  git status
+  114  git restore --staged
+  115  git restore --staged .
+  116  git status
+  117  git commit -am 'Alteração no readme'
+  118  git status
+  119  git add participantes.txt
+  120  git status
+  121  git commit -m 'Adicionado participantes.txt'
+  122  history > Aula_3.txt
