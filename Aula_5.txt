@@ -1,0 +1,264 @@
+    1  history
+    2  clear
+    3  git config --global user.name 'Bernadin Pinquiere'
+    4  git config --global user.name 'Bernadin Pinquiere'
+    5  git config --global user.email 'bernadinpinquiere@gmail.com'
+    6  git config user.name
+    7  cd Desktop/
+    8  mkdir Curso_Git/
+    9  git config user.name
+   10  git init
+   11  git status
+   12  echo '#Aprendendo usar o Git > readme.md
+   13  git branch
+   14  cd projetos3
+   15  clc
+   16  cd projetosBernadin
+   17  cd:
+   18  cd :
+   19  cd c:
+   20  cd xampp
+   21  cd htdocs
+   22  ls
+   23  cd projetos3
+   24  cd projeto3
+   25  git unit
+   26  git init
+   27  git remote add origin github.com/Bernadin18/ProjetosBernadin
+   28  git@github.com:Bernadin18/ProjetosBernadin.git
+   29  https://github.com/Bernadin18/ProjetosBernadin.git
+   30  git remote add origin git@github.com:Bernadin18/ProjetosBernadin.git
+   31  git  remote  add  origin git@github.com:Bernadin18/ProjetosBernadin.git
+   32  git remote add origin git@github.com:Bernadin18/ProjetosBernadin.git
+   33  git@github.com:Bernadin18/trabalhos-importantes.git
+   34  git init
+   35  git@github.com:Bernadin18/trabalhos-importantes.git
+   36  git remote add origin git@github.com:Bernadin18/trabalhos-importantes.git
+   37  cd:
+   38  cd c:
+   39  cd xampp
+   40  cd htdocs
+   41  cd projetos
+   42  ls
+   43  cd projeto3/
+   44  git init
+   45  git remote add origin git@github.com:Bernadin18/meu-trabalho.git
+   46  cd ..
+   47  git init
+   48  cd projeto3/
+   49  git init
+   50  git remote add origin git@github.com:Bernadin18/meu-trabalho.git
+   51  cd:
+   52  cd c:
+   53  cd xampp
+   54  cd hotdocs
+   55  cd htdocs
+   56  cd projeto/
+   57  ls
+   58  cd projeto3/
+   59  git init
+   60  git remote add origin git@github.com:Bernadin18/projetobernadin.git
+   61  cd c:
+   62  cd xampp
+   63  cd htdocs
+   64  ls
+   65  projeto3/
+   66  cd projeto3/
+   67  git init
+   68  git remote add origin git@github.com:Bernadin18/proejetospeesoais.git
+   69  git status
+   70  git --version
+   71  git config --global user.name "Andre Baltieri"
+   72  git config --global user.name "Andre Baltieri"
+   73  git config--global user.name "Bernadin Pinquiere"
+   74  git config --global user.name "Bernadin Pinquiere"
+   75  git config --global user.email "bernadinpinquiere"
+   76  git config --global user.name "Bernadin Pinquiere"
+   77  git config --global user.name "bernadinpinquiere@gmail.com"
+   78  ls
+   79  ls -a
+   80  ls ..
+   81  pwd
+   82  ls
+   83  git config --global user.name 'Bernadin Pinquiere'
+   84  git config --global user.email 'bernadinpinquiere@gmail.com'
+   85  git config user.name
+   86  cd Desktop/
+   87  mkdir Curso_Git
+   88  cd Documents
+   89  cd ~
+   90  cd Documents
+   91  mkdir Curso_Git
+   92  cd Curso_Git/
+   93  git config user.name
+   94  git init
+   95  git status
+   96  echo ' #Aprendendo usar o Git' > readme.md
+   97  git status
+   98  git add readme.md
+   99  git status
+  100  git status
+  101  git comit -m 'commit inicial'
+  102  git commit -m 'commit inicial'
+  103  git status
+  104  echo '##Aula 1' >> readme.md
+  105  git status
+  106  echo 'Bernadin Pinquiere' > participantes.txt
+  107  git status
+  108  git add .
+  109  git status
+  110  git restore --staged participantes.txt
+  111  git status
+  112  git add participantes.txt
+  113  git status
+  114  git restore --staged
+  115  git restore --staged .
+  116  git status
+  117  git commit -am 'Alteração no readme'
+  118  git status
+  119  git add participantes.txt
+  120  git status
+  121  git commit -m 'Adicionado participantes.txt'
+  122  history > Aula_3.txt
+  123  git status
+  124  git add .
+  125  git commit -m 'comandos da Aula 3'
+  126  clear
+  127  git log
+  128  git log -pretty==oneline
+  129  git log --pretty==oneline
+  130  git log --pretty=oneline
+  131  git log --stat
+  132  git log -p
+  133  git log --pretty=online -2
+  134  git log --pretty=oneline -2
+  135  git log --pretty=oneline -4
+  136  git log --since=2.minutes
+  137  git log --since=20.minutes
+  138  git log --since=15.hours
+  139  git log --author='Bernadin Pinquiere'
+  140  git status
+  141  touch teste
+  142  git add teste
+  143  git status
+  144  git commit -m 'commit de teste'
+  145  git log
+  146  git reset --soft HEAD~
+  147  git log
+  148  git status
+  149  git commit -m 'commit de teste'
+  150  git log
+  151  git reset --hard
+  152  git reset --hard HEAD~
+  153  git log
+  154  git status
+  155  git log --pretty=oneline
+  156  git checkout HEAD~~
+  157  git status
+  158  git log
+  159  ls
+  160  git chechout master
+  161  git checkout master
+  162  git log
+  163  git checkout HEAD~2
+  164  git log
+  165  git checkout HEAD~
+  166  git checkout master
+  167  clear
+  168  mkdir .vscode
+  169  touch conf.txt
+  170  mv conf.txt .vscode/
+  171  ls .vscode/
+  172  ls
+  173  ls -a
+  174  git status
+  175  echo '.vscode/' > .gitignore
+  176  git status
+  177  touch pessoal.conf
+  178  git status
+  179  git 'pessoal.conf' >> .gitignore
+  180  echo 'pessoal.conf' >> .gitignore
+  181  git status
+  182  git add .gitignore
+  183  git commit -m 'Adicionado arquivo .gitignore'
+  184  git status
+  185  history > Aula_4.txt
+  186  git status
+  187  git add .
+  188  git commit -m 'comando da Aula 4'
+  189  git init
+  190  git add teste1.html
+  191  git init
+  192  git add .
+  193  git commit - m "primeiro commit"
+  194  ls
+  195  git add .
+  196  git commit -m "segundo commit"
+  197  git log
+  198  git add .
+  199  git commit -m "site alterado"
+  200  git log
+  201  clear
+  202  git branch beta
+  203  git chekout beta
+  204  git checkout beta
+  205  git add .
+  206  git commit -m "fazendo um commit na branch filho"
+  207  git log
+  208  git checkout master
+  209  clear
+  210  git branch
+  211  cd Documents
+  212  ls
+  213  clear
+  214  cd Documents
+  215  cd Curso_Git
+  216  git init
+  217  cd Documents
+  218  clear
+  219  cd 
+  220  cd documents
+  221  ls
+  222  cd Curso_Git
+  223  git branch
+  224  git checkout -b feature
+  225  git branch
+  226  touch Nova_feature
+  227  git status
+  228  git add Nova_feature
+  229  git commit -m 'Adicionando nova feature'
+  230  git log
+  231  git checkout master
+  232  git status
+  233  git log
+  234  touch Continuando_master
+  235  git add Continuando_master
+  236  git commit -m 'Adicionado continuaçao na master'
+  237  git log
+  238  git checkout feature
+  239  git log
+  240  git log
+  241  git checkout -b feature2 master
+  242  git checkout -d feature2
+  243  git checkout feature2
+  244  git log
+  245  git branch -d feature2
+  246  git checkout master
+  247  git branch -d feature2
+  248  git log
+  249   git checkout feature2
+  250  git clear
+  251  git clear
+  252  git clear
+  253  clear
+  254  git checkout feature
+  255  git log --pretty=online --graph
+  256  git log --pretty=oneline --graph
+  257  git merge master
+  258  git log
+  259  git log --pretty=oneline --graph
+  260  git reset --hard HEAD~
+  261  git log --pretty=oneline --graph
+  262  git rebase master
+  263  git log --pretty=oneline --graph
+  264  history > Aula_5.txt
